@@ -1,0 +1,807 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 1024px;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+
+#text {
+    float: left;
+    font-size: 3em;
+    width: 87.734985%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 6.130981%;
+    margin-top: 41.203125px;
+    clear: none;
+    min-height: 106px;
+}
+
+#text1 {
+    float: left;
+    font-size: 1em;
+    width: 87.736511%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 6.089783%;
+    margin-top: 20.203125px;
+    clear: both;
+    min-height: 204px;
+}
+
+#textspan2 {
+    float: none;
+    font-size: 1em;
+    line-height: 1.4em;
+}
+
+#textspan1 {
+    float: none;
+    font-size: 1em;
+    line-height: 2em;
+}
+
+#textspan {
+    float: none;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#text2 {
+    float: left;
+    font-size: 1em;
+    width: 45.065308%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 6.135559%;
+    margin-top: 33.59375px;
+    clear: none;
+    min-height: 310.328125px;
+}
+
+#textspan4 {
+    float: none;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#textspan5 {
+    float: none;
+    font-size: 1em;
+    line-height: 1.4em;
+}
+
+#text3 {
+    float: left;
+    font-size: 1em;
+    width: 87.736511%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 6.176758%;
+    margin-top: 42px;
+    clear: both;
+    min-height: 0px;
+    background-color: rgb(227, 227, 227);
+    border: 20px solid rgb(227, 227, 227);
+}
+
+#textspan6 {
+    float: none;
+    font-size: 1em;
+    line-height: 1.4em;
+    font-style: italic;
+}
+
+#text4 {
+    float: left;
+    font-size: 1em;
+    width: 87.736511%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 6.286621%;
+    margin-top: 54.8125px;
+    clear: both;
+    min-height: 0px;
+}
+
+#textspan8 {
+    float: none;
+    font-size: 1em;
+    line-height: 1.4em;
+}
+
+#textspan7 {
+    float: none;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#text5 {
+    float: left;
+    font-size: 1em;
+    width: 87.736511%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 6.176758%;
+    margin-top: 34.53125px;
+    clear: both;
+    min-height: 0px;
+    background-color: rgb(227, 227, 227);
+    border: 20px solid rgb(227, 227, 227);
+}
+
+#textspan9 {
+    float: none;
+    font-size: 1em;
+    line-height: 1.4em;
+    font-style: italic;
+}
+
+#text6 {
+    float: left;
+    font-size: 1em;
+    width: 87.556458%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: -87.683105%;
+    margin-top: 259.34375px;
+    clear: none;
+    min-height: 158px;
+}
+
+#textspan11 {
+    float: none;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#textspan12 {
+    float: none;
+    font-size: 1em;
+    line-height: 1.4em;
+}
+
+#text7 {
+    float: left;
+    font-size: 1em;
+    width: 87.776184%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 6.164551%;
+    margin-top: 62.125px;
+    clear: both;
+    min-height: 217px;
+}
+
+#textspan14 {
+    float: none;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#textspan15 {
+    float: none;
+    font-size: 1em;
+    line-height: 1.4em;
+}
+
+#text8 {
+    float: left;
+    font-size: 1em;
+    width: 87.612915%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 6.343079%;
+    margin-top: 73.5px;
+    clear: both;
+    min-height: 0px;
+}
+
+#textspan17 {
+    float: none;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#textspan18 {
+    float: none;
+    font-size: 1em;
+    line-height: 1.4em;
+}
+
+#text9 {
+    float: left;
+    font-size: 1em;
+    width: 87.776184%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 6.343079%;
+    margin-top: 69.140625px;
+    clear: both;
+    min-height: 223px;
+}
+
+#textspan20 {
+    float: none;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#textspan21 {
+    float: none;
+    font-size: 1em;
+    line-height: 1.4em;
+}
+
+#text10 {
+    float: left;
+    font-size: 1em;
+    width: 87.776184%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 6.286621%;
+    margin-top: 73.78125px;
+    clear: both;
+    min-height: 0px;
+}
+
+#textspan23 {
+    float: none;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#textspan24 {
+    float: none;
+    font-size: 1em;
+    line-height: 1.4em;
+}
+
+#text12 {
+    float: left;
+    font-size: 1em;
+    width: 87.594604%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 6.188965%;
+    margin-top: 33px;
+    clear: both;
+    min-height: 0px;
+}
+
+#textspan27 {
+    float: none;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#textspan28 {
+    float: none;
+    font-size: 1em;
+    line-height: 1.4em;
+}
+
+#text13 {
+    float: left;
+    font-size: 1em;
+    width: 53.320313%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 6.343079%;
+    margin-top: 46px;
+    clear: both;
+    min-height: 0px;
+}
+
+#textspan30 {
+    float: none;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#textspan31 {
+    float: none;
+    font-size: 1em;
+    line-height: 1.4em;
+}
+
+#image1 {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 6.130981%;
+    margin-top: 62.1875px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    max-width: 87.814331%;
+}
+
+#image {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 5.990601%;
+    margin-top: 33.59375px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    max-width: 36.672974%;
+}
+
+#image3 {
+    float: left;
+    width: auto;
+    max-width: 36.672974%;
+    height: auto;
+    margin-left: 6.112671%;
+    margin-top: 53.1875px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#image2 {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 6.147766%;
+    margin-top: 53.1875px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    max-width: 45.010376%;
+}
+
+#image4 {
+    float: left;
+    width: auto;
+    max-width: 42.338562%;
+    height: auto;
+    margin-left: 6.272888%;
+    margin-top: 61.890625px;
+    clear: both;
+    color: rgb(0, 0, 0);
+}
+
+#image5 {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 3.419495%;
+    margin-top: 61.890625px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    max-width: 41.654968%;
+}
+
+#image6 {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 25.598145%;
+    margin-top: 51px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    max-width: 48.800659%;
+}
+
+#image7 {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 6.176758%;
+    margin-top: 75.5px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    max-width: 42.192078%;
+}
+
+#image8 {
+    float: left;
+    width: auto;
+    max-width: 42.486572%;
+    height: auto;
+    margin-left: 2.836609%;
+    margin-top: 73.5px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#image10 {
+    float: left;
+    width: auto;
+    max-width: 27.993774%;
+    height: auto;
+    margin-left: 6.202698%;
+    margin-top: 43px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#image9 {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 6.343079%;
+    margin-top: 41.5625px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    max-width: 87.893677%;
+}
+
+#text11 {
+    float: left;
+    font-size: 0.9em;
+    width: 87.753296%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 6.089783%;
+    margin-top: 30.71875px;
+    clear: both;
+    min-height: 64px;
+    background-color: rgb(227, 227, 227);
+    border: 20px solid rgb(227, 227, 227);
+}
+
+#textspan3 {
+    float: none;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#textspan10 {
+    float: none;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#textspan13 {
+    float: none;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#textspan16 {
+    float: none;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#textspan19 {
+    float: none;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#textspan22 {
+    float: none;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#textspan26 {
+    float: none;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#textspan29 {
+    float: none;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+#textspan25 {
+    line-height: 1.4em;
+}
+
+@media only screen and (max-width: 953px) {
+   .primaryContainer {
+        width: 90%;
+   }
+}
+
+@media only screen and (max-width: 674px) {
+   #text2 {
+        margin-top: 61.1875px;
+        margin-left: 6.346917%;
+        clear: both;
+        height: auto;
+        min-height: 259px;
+        width: 87.94498%;
+   }
+
+   #text {
+        width: 87.726032%;
+        font-size: 180%;
+   }
+
+   #text1 {
+        width: 87.731183%;
+   }
+
+   #text3 {
+        margin-top: 25.625px;
+        margin-left: 6.413889%;
+        clear: both;
+        width: 87.731183%;
+   }
+
+   #text4 {
+        width: 87.731183%;
+        margin-top: 32.25px;
+        margin-left: 6.594199%;
+        clear: both;
+   }
+
+   #text5 {
+        width: 87.731183%;
+        margin-top: 22.9375px;
+        margin-left: 6.594199%;
+        clear: both;
+   }
+
+   #text6 {
+        width: 87.545721%;
+        margin-top: 24.375px;
+        margin-left: 6.076451%;
+        clear: both;
+   }
+
+   #text7 {
+        width: 87.767245%;
+        margin-top: 33.625px;
+        margin-left: 6.413889%;
+        clear: both;
+   }
+
+   #text8 {
+        width: 87.607542%;
+        margin-top: 28.5625px;
+        margin-left: 6.341765%;
+        clear: both;
+   }
+
+   #text9 {
+        width: 87.767245%;
+        margin-top: 29.90625px;
+        margin-left: 6.416465%;
+        clear: both;
+   }
+
+   #text10 {
+        width: 87.767245%;
+        margin-top: 23px;
+        margin-left: 6.341765%;
+        clear: both;
+   }
+
+   #text11 {
+        width: 87.746639%;
+        margin-top: 19px;
+        margin-left: 6.277369%;
+        clear: both;
+   }
+
+   #text12 {
+        width: 87.584359%;
+        margin-top: 25px;
+        margin-left: 6.241306%;
+        clear: both;
+   }
+
+   #text13 {
+        width: 87.429808%;
+        height: auto;
+        min-height: 0px;
+        margin-top: 24px;
+        margin-left: 6.449951%;
+        clear: both;
+   }
+
+   #image {
+        height: auto;
+        width: auto;
+        max-width: 87.437535%;
+        margin-top: 34.1875px;
+        margin-left: 6.341765%;
+        clear: both;
+   }
+
+   #image9 {
+        margin-top: 27px;
+        margin-left: 6.594199%;
+        clear: both;
+        height: auto;
+        width: auto;
+        max-width: 84.87198%;
+   }
+
+   #image1 {
+        margin-top: 32.125px;
+        margin-left: 6.594199%;
+        clear: both;
+   }
+
+   #image2 {
+        margin-top: 25.75px;
+        margin-left: 6.514348%;
+        clear: both;
+        height: auto;
+        width: auto;
+        max-width: 86.883726%;
+   }
+
+   #image3 {
+        margin-top: 33.1875px;
+        margin-left: 6.416465%;
+        clear: both;
+        height: auto;
+        width: auto;
+        max-width: 87.641028%;
+   }
+
+   #image4 {
+        margin-top: 20.03125px;
+        margin-left: 6.285096%;
+        clear: both;
+        height: auto;
+        width: auto;
+        max-width: 87.177374%;
+   }
+
+   #image5 {
+        margin-top: 22.5625px;
+        margin-left: 6.303127%;
+        clear: both;
+        height: auto;
+        width: auto;
+        max-width: 87.43496%;
+   }
+
+   #image6 {
+        margin-top: 28px;
+        margin-left: 14.664366%;
+        clear: both;
+        height: auto;
+        width: auto;
+        max-width: 70.666117%;
+   }
+
+   #image7 {
+        margin-top: 23px;
+        margin-left: 13.270826%;
+        clear: both;
+        height: auto;
+        width: 75.598887%;
+        max-width: 100%;
+   }
+
+   #image8 {
+        margin-top: 12.984375px;
+        margin-left: 13.270826%;
+        clear: both;
+        height: auto;
+        width: 74.583999%;
+        max-width: 100%;
+   }
+
+   #textspan24 {
+        line-height: 1.4em;
+   }
+
+   #textspan25 {
+        float: none;
+        font-size: 1em;
+        line-height: 1.4em;
+   }
+
+   #image10 {
+        margin-top: 21.484375px;
+        margin-left: 24.372778%;
+        clear: both;
+        height: auto;
+        width: auto;
+        max-width: 51.280202%;
+   }
+
+   #textspan {
+        font-size: 130%;
+   }
+
+   #textspan3 {
+        float: none;
+        font-size: 130%;
+        line-height: 1em;
+   }
+
+   #textspan7 {
+        font-size: 130%;
+   }
+
+   #textspan10 {
+        float: none;
+        font-size: 130%;
+        line-height: 1em;
+   }
+
+   #textspan13 {
+        float: none;
+        font-size: 130%;
+        line-height: 1em;
+   }
+
+   #textspan16 {
+        float: none;
+        font-size: 130%;
+        line-height: 1em;
+   }
+
+   #textspan19 {
+        float: none;
+        font-size: 130%;
+        line-height: 1em;
+   }
+
+   #textspan22 {
+        float: none;
+        font-size: 130%;
+        line-height: 1em;
+   }
+
+   #textspan26 {
+        float: none;
+        font-size: 130%;
+        line-height: 1em;
+   }
+
+   #textspan29 {
+        float: none;
+        font-size: 130%;
+        line-height: 1em;
+   }
+}
+
